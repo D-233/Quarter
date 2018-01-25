@@ -1,7 +1,9 @@
-package com.ddy.quarter;
+package com.ddy.quarter.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.ddy.quarter.R;
 
 public class MainActivity extends AppCompatActivity {
 
